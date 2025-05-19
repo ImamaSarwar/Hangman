@@ -14,6 +14,7 @@ Hangman is a 2D word-guessing game with a clean, modular OOP design. The player 
 ### Controls
 - Letter guesses are made via keyboard key presses.
 - Spacebar toggles the Play/Pause functionality at any time.
+![Game UI](https://github.com/ImamaSarwar/Hangman/raw/d8969dd8b696fea1a04f7271224cc84956cd8bcf/Game%20UI.png)
 ## Getting Started
 Since SFML was used for graphics and audio, the SFML library is required to run the game. [Installing SFML for Visual Studio](https://www.youtube.com/watch?v=lFzpkvrscs4)
 ### Enjoy!
