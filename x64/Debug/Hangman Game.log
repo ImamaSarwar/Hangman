@@ -1,0 +1,5 @@
+﻿  Hangman.cpp
+C:\Users\Waqas\source\repos\Hangman Game\Hangman Game\Hangman.cpp(275,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\Hangman Game\Hangman Game\Hangman.cpp(384,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Waqas\source\repos\Hangman Game\Hangman Game\Category.h(27,1): warning C4715: 'Category::getString': not all control paths return a value
+  Hangman Game.vcxproj -> C:\Users\Waqas\source\repos\Hangman Game\x64\Debug\Hangman Game.exe
