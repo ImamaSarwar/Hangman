@@ -1,5 +1,6 @@
 # Hangman Game
-Hangman is a 2D word-guessing game with a clean, modular OOP design. The player is challenged to guess a randomly selected word from one of three categories: Food, Space, or Animals.
+This project is a 2D implementation of the classic Hangman word-guessing game, developed with a clean and modular Object-Oriented Programming (OOP) architecture. The game challenges the player to identify a randomly selected word by guessing individual letters within a limited number of attempts.
+Words are drawn from one of three predefined categories: Food, Space, and Animals. The game logic, structure, and user interface have been designed with a focus on clarity, maintainability, and adherence to software development best practices.
 ## Gameplay Features
 ### Word Selection
 - A random word is selected from the chosen category.
